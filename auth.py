@@ -16,7 +16,7 @@ headers = {
 # Send a GET request
 url = f"https://paper-api.alpaca.markets/v2/account"
 response = requests.get(url, headers=headers)
-
+adsdasdas
 # Print the response
 print(response.status_code)
 print(response.json())
